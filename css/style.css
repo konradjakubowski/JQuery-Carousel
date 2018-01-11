@@ -10,11 +10,13 @@ body {
     background-color: tan;
 }
 #carousel {
-    height: 323px;
+    height: 300px;
     width: 400px;
     margin: 0 auto;
     border: 3px solid black;
-    overflow: auto; 
+    overflow: auto;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 ul {
     width: 2000px;

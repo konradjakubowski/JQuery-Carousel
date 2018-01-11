@@ -1,0 +1,3 @@
+body { background-color: blue; display: -webkit-box; display: -ms-flexbox; display: flex; }
+
+.test { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }

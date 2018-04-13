@@ -1,2 +1,3 @@
-# javascript-02
-task_8_3
+A Portfolio Mini-Project. Carousel (Slideshow) built from scratch using JavaScript and JQuery:
+
+https://konradjakubowski.github.io/js-jquery-carousel/
